@@ -2,10 +2,8 @@
 
 
 image 
+![](https://images.unsplash.com/photo-1615022702095-ff2c036f3360?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwZ2lybHxlbnwwfHwwfHw%3D&w=1000&q=80)
 
-![](https://scontent.fcai20-1.fna.fbcdn.net/v/t1.6435-9/174203812_1180096595785774_6943447777586534876_n.jpg?
-_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jjMUG8xDVP8AX9HMhLJ&_nc_ht=scontent.fcai20-1.
-fna&oh=00_AT-G59kaT1CHzFh0bOjJBzlkWRbdr5PPEiGH17dzZXC2vg&oe=62587189)
 
 Tell me how to remove them locally and remotely?
 
